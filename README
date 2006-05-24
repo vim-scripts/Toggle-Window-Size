@@ -1,0 +1,3 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1557
+
+This will maximize/restore the height and width of the OS Window containing GVIM.  It allows you to specify what the maximum sizes are and will restore the original size and position.
